@@ -1,6 +1,6 @@
 > # INTRODUCTION
 
-I built this scss boilerplate as quick way to implement SCSS in React, Angular or any other framework or library that understands SCSS.
+I orchestrated this scss boilerplate as quick way to implement SCSS in React, Angular or any other framework or library that understands SCSS.
 
 # Usage
 
